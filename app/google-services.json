@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166199867482",
+    "project_id": "birdapp-4cedb",
+    "storage_bucket": "birdapp-4cedb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166199867482:android:c831789024bb4a77e98063",
+        "android_client_info": {
+          "package_name": "com.example.bird_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmdjuNEQptXfEduelstl6WlJ0NVCqbXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
